@@ -2,10 +2,6 @@
   <description>
     java-algorithms-implementation build file
   </description>
-  <properties>
-  <sonar.organization>keerthana-190</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
 
   <!-- set global properties for this build -->
   <property name="src" location="src"/>
